@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673151110 source:c:\final build\safety app\main.cpp
+	<bits/stdc++.h>
+	"mail.h"
+	<conio.h>
+
+1673150227 c:\final build\safety app\mail.h
+	<conio.h>
+
